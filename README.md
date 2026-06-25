@@ -27,7 +27,7 @@ The <a href="#pdfSqueezer">office and administrative worker use case</a> is most
 The <a href="#pdfSqueezer">Mac App Store one-time purchase</a> provides permanent access without subscription — a utility that pays for itself the first time it prevents a large PDF from bouncing from an email server or timing out during upload. <a href="#pdfSqueezer">Simple interface without technical knowledge</a> required — drag files in, adjust quality if needed, compress. PDF optimization knowledge is built into the application's default settings.
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/349753/m/pdf-squeezer-screenshot.png?v=1670528568" alt="PDF Squeezer screenshot"/>
+  <img src="https://store.setapp.com/cdn-cgi/image/width=1200,quality=75,format=auto/app/188/screenshots/1757795247-68c5d3afc9c85.png" alt="PDF Squeezer screenshot"/>
 </p>
 
 <a href="#pdfSqueezer">Before and after file size display</a> shows the original and compressed sizes for each processed file — confirming the compression achieved and the ratio of size reduction for each document. <a href="#pdfSqueezer">Output folder configuration</a> sends compressed PDFs to a specified location rather than overwriting originals — maintaining the original files while placing compressed versions in a designated output directory.
